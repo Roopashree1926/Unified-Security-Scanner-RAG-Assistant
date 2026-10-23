@@ -1,0 +1,49 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Node.js
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local databases and scan history
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache and virtual environments
+__pycache__/
+venv/
+.venv/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Backup files
+*.bak
+*.bak2
