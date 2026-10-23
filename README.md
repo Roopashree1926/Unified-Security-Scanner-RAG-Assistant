@@ -51,5 +51,4 @@ Start OWASP ZAP separately using its configured API on 127.0.0.1:8080 before run
 ## Security Notice
 Only scan systems that you own or have explicit permission to test. Keep API keys and credentials private. Do not include secrets in source control.
 
-## Limitations
-Scanner results may contain false positives or miss vulnerabilities. Review findings manually before treating them as confirmed security issues. AI-generated explanations should also be verified.
+
